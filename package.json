@@ -1,0 +1,16 @@
+{
+  "name": "challenge-amigo-secreto_esp-main",
+  "version": "1.0.0",
+  "description": "es el sorto de amigo secreto de una lisa de amigos esto nos permitira ser mas agiles cuando queramos ahcer un sorteo de amigos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amigo",
+    "secreto",
+    "sorteo"
+  ],
+  "author": "Elvia Cecilia Vicente Guerra",
+  "license": "ISC"
+}
